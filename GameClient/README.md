@@ -1,2 +1,2 @@
 # Neverwinter
-Macros for Bard songs in [https://www.playneverwinter.com/](Neverwinter)
+Macros for Bard songs in [Neverwinter](https://www.playneverwinter.com/)
