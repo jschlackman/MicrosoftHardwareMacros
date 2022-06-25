@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><Macro>
+	<KeyBoardEvent Down="true">75</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">75</KeyBoardEvent>
+	<DelayEvent>100</DelayEvent>
+	<KeyBoardEvent Down="true">75</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">75</KeyBoardEvent>
+	<DelayEvent>250</DelayEvent>
+	<KeyBoardEvent Down="true">77</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">77</KeyBoardEvent>
+	<DelayEvent>100</DelayEvent>
+	<KeyBoardEvent Down="true">77</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">77</KeyBoardEvent>
+	<DelayEvent>250</DelayEvent>
+	<KeyBoardEvent Down="true">71</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">71</KeyBoardEvent>
+	<DelayEvent>100</DelayEvent>
+	<KeyBoardEvent Down="true">71</KeyBoardEvent>
+	<DelayEvent>10</DelayEvent>
+	<KeyBoardEvent Down="false">71</KeyBoardEvent>
+</Macro>
